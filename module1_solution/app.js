@@ -7,7 +7,11 @@ angular.module('LunchCheck', [])
 LunchCheckController.$inject = ['$scope']
 function LunchCheckController($scope){
 
-  
+
 }
+
+$scope.checkNumberOfItems = function() {
+      $scope.numberOfItems = 666;
+};
 
 })();
