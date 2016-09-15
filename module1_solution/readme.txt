@@ -1,0 +1,1 @@
+First assignment for the Coursera AngularJS course
