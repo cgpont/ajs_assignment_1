@@ -15,9 +15,12 @@
              class="form-control"
              ng-model="lunchMenuText">
          </div>
+         <div><em>Please note that any empty item (i.e., , ,) won't be considered as an item towards to the count.</em></div>
+         <br><br>
          <div class="form-group">
              <button class="btn btn-default" ng-click="checkIfTooMuch();">Check If Too Much</button>
          </div>
+         <br><br>
          <div class="form-group message {{messageDisplayedToUserClass}}">
               {{messageDisplayedToUser}}
          </div>
