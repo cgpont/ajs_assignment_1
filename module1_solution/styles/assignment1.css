@@ -1,0 +1,22 @@
+.message { font-size: 1.3em; font-weight: bold; }
+
+.enjoy{
+    color: #4CB963;
+    border: 2px solid #4CB963;
+    padding: 2px;
+    width: 63px;
+}
+
+.too-much{
+    color: #4CB963;
+    border: 2px solid #4CB963;
+    padding: 2px;
+    width: 100px;
+}
+
+.enter-data{
+    color: #9E0000;
+    border: 2px solid #9E0000;
+    padding: 2px;
+    width: 199px;
+}
